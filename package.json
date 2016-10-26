@@ -1,0 +1,31 @@
+{
+  "name": "m-angular-utilities",
+  "version": "1.0.0",
+  "description": "Angular Utilities Module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcellorego/angular-utilities.git"
+  },
+  "keywords": [
+    "Angular",
+    "Utilities",
+    "Module"
+  ],
+  "author": "marcellorego@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcellorego/angular-utilities/issues"
+  },
+  "homepage": "https://github.com/marcellorego/angular-utilities#readme",
+  "ignore": [
+    "demo*",
+    "bower.json"
+  ],
+  "dependencies": {
+    "angular": "1.x"
+  }
+}
